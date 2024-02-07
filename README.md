@@ -1,5 +1,5 @@
 # Atliq_Business_insight
-# Business Insights 360
+# Business Insights 
 
 ## Project Overview
 
@@ -7,7 +7,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link](https://www.novypro.com/project/business-insights-360-6)
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZDk2NjVlNzAtZGJkYS00YmYyLThlYzItNmQ4YjEwMTAwNDNkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ## Tools Used
 
@@ -119,37 +119,6 @@ In Home view, all the views button will be available. User will land on specific
 - Executive View
 - Stakeholder Request
 - Support
-
-## Overall Report
-
-![Overall Report.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Overall%20Report.gif)
-
-## Finance View
-
-![Finace.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Finance%20view.gif)
-
-## Sales View
-
-![Sales.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Sales%20View.gif)
-
-## Marketing View
-
-![Marketing.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Marketing%20view.gif)
-
-## Supply chain View
-
-![Supply chain View.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Supply%20chain%20View.gif)
-
-## Executive View
-
-![Executive.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Executive%20view.gif)
-
-## Stakeholder Request
-
-![Stakeholder Request](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Stakeholder%20Request.gif)
-
-you can find the full report file here : [Report](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Business%20Insights%20360.pbix)
-
 
 ## Project Outcome
 
