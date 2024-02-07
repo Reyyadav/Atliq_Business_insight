@@ -11,6 +11,19 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 
 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZDk2NjVlNzAtZGJkYS00YmYyLThlYzItNmQ4YjEwMTAwNDNkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
+
+## Project Goals
+
+### What problems are we trying to solve
+#### Who - 
+Executives, Finance, Supplychain, Sales & Marketing Teams
+
+#### What -
+Unlock insights and enable data driven decisions
+
+#### Why-
+Care about it?
+
 ## Tools Used
 
 - SQL
@@ -113,8 +126,11 @@ Based on the mock ups received as requirement, the team will start designing the
 
 In Home view, all the views button will be available. User will land on specific view page by clicking the button 
 
-- home page
+- Home page
 ![Home Page](https://github.com/Reyyadav/Atliq_Business_insight/assets/153619494/a559efb1-80af-4502-a352-d86729216371)
+
+- Description
+![Description](https://github.com/Reyyadav/Atliq_Business_insight/assets/153619494/5ff752a2-3d8d-4616-995e-50317c8ec203)
 
 - Finance View
 ![Finance View](https://github.com/Reyyadav/Atliq_Business_insight/assets/153619494/742f2204-9713-4f34-8d46-ef1b8e36ab78)
@@ -123,11 +139,13 @@ In Home view, all the views button will be available. User will land on specific
 ![Sales View](https://github.com/Reyyadav/Atliq_Business_insight/assets/153619494/a8255172-2762-4a60-a204-e9d20680a588)
 
 - Marketing View
-- ![MARKETING](https://github.com/Reyyadav/Atliq_Business_insight/assets/153619494/5ebc1155-6f12-43f5-a90a-4c991a740db2)
+- ![MARKETING View](https://github.com/Reyyadav/Atliq_Business_insight/assets/153619494/5ebc1155-6f12-43f5-a90a-4c991a740db2)
 
 - Supply chain View
-- Executive View
+- ![Supply Chain View](https://github.com/Reyyadav/Atliq_Business_insight/assets/153619494/8f132da5-99c6-481c-a5a9-47fc89853966)
 
+- Executive View
+![Executive View](https://github.com/Reyyadav/Atliq_Business_insight/assets/153619494/8a7cb4d1-b0ee-4009-ab93-182ce0944297)
 
 ## Project Outcome
 
