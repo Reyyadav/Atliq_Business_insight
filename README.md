@@ -1,6 +1,8 @@
 # Atliq_Business_insight
 # Business Insights 
 
+Atliq a Multinational company wants to make data driven decision making as apart of their work culture and taking their first big step towards that by embedding a Power Bi tool in the organisation.
+
 ## Project Overview
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
@@ -111,10 +113,18 @@ Based on the mock ups received as requirement, the team will start designing the
 
 In Home view, all the views button will be available. User will land on specific view page by clicking the button 
 
-- Info
+- home page
+![Home Page](https://github.com/Reyyadav/Atliq_Business_insight/assets/153619494/a559efb1-80af-4502-a352-d86729216371)
+
 - Finance View
+![Finance View](https://github.com/Reyyadav/Atliq_Business_insight/assets/153619494/742f2204-9713-4f34-8d46-ef1b8e36ab78)
+
 - Sales View
+![Sales View](https://github.com/Reyyadav/Atliq_Business_insight/assets/153619494/a8255172-2762-4a60-a204-e9d20680a588)
+
 - Marketing View
+- ![MARKETING](https://github.com/Reyyadav/Atliq_Business_insight/assets/153619494/5ebc1155-6f12-43f5-a90a-4c991a740db2)
+
 - Supply chain View
 - Executive View
 
