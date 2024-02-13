@@ -95,10 +95,10 @@ Care about it?
 - YTD - Year to Date refers to the period starting from the beginning of the current calendar year up to the present date.
 - YTG - Year to Go refers to the remaining portion of the current calendar year from the present date until the end of the year.
   
-- Direct
-- Retailer
-- Distributors
-- Consumer
+- Direct : Refers to the direct sales channel where products are sold directly from the manufacturer or supplier to the end consumer without any intermediaries involved. 
+- Retailer : Refers to businesses that purchase products from manufacturers or wholesalers and sell them to consumers through physical or online stores.
+- Distributors : Refers to intermediaries that purchase products in bulk from manufacturers and sell them to retailers or other businesses. 
+- Consumer : You and me !
 
 ## Company’s background
 
