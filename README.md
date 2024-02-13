@@ -69,7 +69,9 @@ Care about it?
 
 ## Business related terms
 
-- Gross price : Gross price refers to the total selling price of a product or service before any deductions
+- P and L statement : provides valuable insights into a company's profitability, financial viability, and overall performance, serving as a cornerstone for effective financial management and decision-making.
+
+-  Gross price : Gross price refers to the total selling price of a product or service before any deductions
   Gross price = Net price
   
 - Pre-invoice deductions : Pre-invoice deductions refer to reductions or adjustments made to the total amount owed by a customer before the issuance of an invoice.(discounts,rebate,allowances)
